@@ -13,7 +13,8 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:inputType="textAutoComplete"
-        android:layout_marginTop="@dimen/abc_action_bar_default_height_material" />
+        android:layout_marginTop="@dimen/abc_action_bar_default_height_material"
+        android:hint="World" />
 
     <Button
         android:layout_width="fill_parent"
