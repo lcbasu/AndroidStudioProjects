@@ -1,0 +1,7 @@
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/classes/debug
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-73ae55415efb9133672f9969fd8a5c2495868b73.jar
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-7b391c52dcd5f932d6aea0c125eeb1e902b33efa.jar
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/classes-1abec9c62bdd318169d85ba3c1439a166ffa67a2.jar
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/classes-584b2eee9484296cd6066895b840a798940dd0cb.jar
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-c07da739b29ef8870aea509e4ced17dffa3eb78b.jar
+/Users/LokeshBasu/Documents/AndroidStudioProjects/MediaEffects/Application/build/intermediates/pre-dexed/debug/classes-cf57730be91d9ab5cb9eb47e94a80f76da9b1c33.jar
